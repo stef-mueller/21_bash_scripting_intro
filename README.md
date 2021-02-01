@@ -3,7 +3,7 @@
 ## Audience
 bash/unix beginners after completion of first introductory courses.
 ## Slides
-PDF: [bash_script_intro/bash_scripting_intro.pdf](bash_scripting_intro.pdf) 
+PDF: [bash_scripting_intro.pdf](bash_scripting_intro.pdf) 
 ## Example1: for loop
 * usage: very handy to loop over chromosomes
 * example scripts:
